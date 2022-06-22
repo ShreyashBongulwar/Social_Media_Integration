@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Social_Media_Inegration</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">REGISTER</string>
+    <string name="already_have_an_account">Already Have An Account ?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="create_new_account">Create New Account ?</string>
+    <string name="or">- - - - - - - - - - OR - - - - - - - - - -</string>
+    <string name="loginn">Login</string>
+    <string name="facebook_app_id">538950427173940</string>
+    <string name="fb_login_protocol_scheme">fb538950427173940</string>
+</resources>
